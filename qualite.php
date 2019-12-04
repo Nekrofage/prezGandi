@@ -4,7 +4,7 @@
                     <br> 
                     Assurance qualité des réponses aux clients<br> 
                     Une première réponse complète<br>
-                    Anticipez les problème<br>
+                    Anticipation des problèmes<br>
                     <br/>
                     <br/>
                     <p>
