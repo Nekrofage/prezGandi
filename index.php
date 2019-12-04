@@ -41,6 +41,10 @@ include("competencetech2.php");
 
 include("competence.php");
 
+include("qualite.php");
+include("reseau.php");
+
+
 include("lien.php");
 include("contactezmoi.php");
 
