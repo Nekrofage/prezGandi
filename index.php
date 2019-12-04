@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+		<title>Gandi - Agent Support Hosting</title>
 
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/reveal.css">
@@ -25,8 +25,28 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+<?php
+
+include("couverture.php");
+include("gandi.php");
+include("metier.php");
+include("description.php");
+
+
+include("historique.php");
+include("hebergement.php");
+include("role.php");
+include("competencetech1.php");
+include("competencetech2.php");
+
+include("competence.php");
+
+include("lien.php");
+include("contactezmoi.php");
+
+
+?>
+
 			</div>
 		</div>
 
