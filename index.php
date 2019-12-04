@@ -42,6 +42,9 @@ include("competencetech2.php");
 include("competence.php");
 
 include("qualite.php");
+
+include("quotidien.php");
+
 include("reseau.php");
 
 
