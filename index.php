@@ -45,6 +45,8 @@ include("qualite.php");
 
 include("quotidien.php");
 
+include("probleme.php");
+
 include("reseau.php");
 
 
