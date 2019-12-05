@@ -28,9 +28,11 @@
 <?php
 
 include("couverture.php");
-include("gandi.php");
-include("metier.php");
-include("description.php");
+//include("acronyme.php");
+include("activite.php");
+include("description1.php");
+include("description2.php");
+
 
 
 include("historique.php");
