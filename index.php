@@ -41,7 +41,8 @@ include("role.php");
 include("competencetech1.php");
 include("competencetech2.php");
 
-include("competence.php");
+include("competence1.php");
+include("competence2.php");
 
 include("qualite.php");
 

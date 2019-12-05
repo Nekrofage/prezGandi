@@ -2,8 +2,10 @@
                     <h3>Agent Support Hosting</h3>
                     <h4>Ses compétences</h4>
                     <br> 
+                    Autonomie<br>
                     Savoir répondre correctement aux clients<br>
-                    Savoir écrire des e-mails : Style d'écriture<br>
+                    Bonne rédaction : e-mails<br>
+                    Synthétiser des informations<br>
                     Avoir de l'empathie<br>
                     Ne pas mentir !!<br> 
                     Eduquer le client<br>

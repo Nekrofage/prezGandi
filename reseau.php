@@ -8,7 +8,7 @@
                     Facebook : https://www.facebook.com/gandi.net/<br>
                     IRC : irc.freenode.net #gandi<br> 
                     Blog : https://news.gandi.net/fr/<br>
-                    <br/>
+                    Emploi : https://gandi.jobs<br/>
                     <br/>
                     <p>
                     </p>
