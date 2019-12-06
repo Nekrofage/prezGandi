@@ -37,6 +37,10 @@ include("description2.php");
 
 include("historique.php");
 include("hebergement.php");
+
+include("serviceclient.php");
+
+
 include("role.php");
 include("competencetech1.php");
 include("competencetech2.php");
